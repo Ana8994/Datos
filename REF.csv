@@ -1,0 +1,3 @@
+time,lat,lon,elevation,accuracy,bearing,speed,satellites,provider,hdop,vdop,pdop,geoidheight,ageofdgpsdata,dgpsid,activity,battery,annotation
+2019-12-15T00:18:29.905Z,0.339013,-78.140039,2251.2001953125,22585,,,0,network,,,,,,,,13,
+,0.339212,-78.141745,,,,,,,,,,,,,,,
